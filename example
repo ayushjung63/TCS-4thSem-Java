@@ -1,0 +1,6 @@
+
+1. Create an example of Abstraction and show how every student can code differently.
+
+1. Create interface with method code
+2. implement in multiple student class and provide different impl
+3. use in Main method and print data
