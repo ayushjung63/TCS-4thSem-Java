@@ -1,3 +1,5 @@
+package entity;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -55,7 +57,7 @@ public class Product {
 
     @Override
     public String toString() {
-        return "Product{" +
+        return "entity.Product{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", description='" + description + '\'' +
